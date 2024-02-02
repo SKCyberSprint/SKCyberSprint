@@ -1,8 +1,9 @@
 <h1>Hi, I'm Srinivas! <br/> <a href="https://www.linkedin.com/in/srinivas-kotaru-95401a137">Cybersecurity Professional</a>, SOC Engineer </h1>
 
 <h2>👨‍💻 🌱 I’m currently learning ...</h2>
-Splunk
-Crowdstrike EDR
+Splunk <br/>
+Crowdstrike EDR <br/>
+Git
 
 <h2> 🤳 Connect with me:</h2>
 
